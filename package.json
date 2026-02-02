@@ -1,7 +1,7 @@
 {
   "name": "tuya-smart-web",
   "version": "0.1.0",
-  "description": "A premium web dashboard for Tuya IoT smart home devices built with Next.js 16.",
+  "description": "A professional web dashboard leveraging the Tuya Open API to seamlessly control and monitor your home IoT ecosystem. Built with Next.js 16 for high performance.",
   "author": "linux2z",
   "license": "MIT",
   "keywords": [
