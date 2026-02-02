@@ -46,13 +46,7 @@ npm install
 ```
 
 ### 2. Configuration
-Copy the template file to create your local environment file:
-
-```bash
-cp .env.example .env.local
-```
-
-Then, open `.env.local` and fill in your Tuya Developer credentials:
+The project includes a `.env` file with placeholders. Open it and fill in your Tuya Developer credentials:
 
 ```env
 TUYA_ACCESS_ID=your_id
@@ -60,6 +54,9 @@ TUYA_ACCESS_SECRET=your_secret
 TUYA_UID=your_uid
 TUYA_API_ENDPOINT=https://openapi.tuyaeu.com
 ```
+
+> [!TIP]
+> **Pro Tip:** For local development, you can create a `.env.local` file. Settings in `.local` will override the main `.env` and are automatically ignored by Git to keep your keys safe.
 
 > [!TIP]
 > **Endpoint Guide:**
