@@ -1,7 +1,18 @@
 {
   "name": "tuya-smart-web",
   "version": "0.1.0",
-  "private": true,
+  "description": "A premium web dashboard for Tuya IoT smart home devices built with Next.js 16.",
+  "author": "linux2z",
+  "license": "MIT",
+  "keywords": [
+    "tuya",
+    "iot",
+    "smart-home",
+    "dashboard",
+    "nextjs",
+    "infrared-remote"
+  ],
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",

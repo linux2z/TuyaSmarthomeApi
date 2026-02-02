@@ -36,6 +36,16 @@
 
 ---
 
+## 📋 Prerequisites
+
+Before you begin, ensure you have the following:
+
+- **Node.js 18.x** or higher.
+- A **Tuya Developer Account** (create one at [developer.tuya.com](https://developer.tuya.com/)).
+- At least one Tuya-compatible device linked to your account.
+
+---
+
 ## 🚀 Installation
 
 ### 1. Clone & Install
@@ -82,6 +92,10 @@ Visit **[localhost:3000](http://localhost:3000)** to start controlling your home
   - `inspect-tv.js`: Specific diagnosis for Infrared (IR) remote functionalities.
 
 ---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
 
 <div align="center">
   <p>Built by <a href="https://github.com/linux2z">linux2z</a></p>
