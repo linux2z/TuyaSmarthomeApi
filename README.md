@@ -81,6 +81,6 @@ Visit **[localhost:3000](http://localhost:3000)** to start controlling your home
 ---
 
 <div align="center">
-  <p>Built by <a href="https://github.com/linux2z">linux2z</a> & <a href="https://github.com/google-deepmind">Antigravity AI</a></p>
+  <p>Built by <a href="https://github.com/linux2z">linux2z</a></p>
   <p>Made with ❤️ for the Smart Home Community</p>
 </div>

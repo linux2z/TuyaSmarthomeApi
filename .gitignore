@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local logs and data
+*.log
+device_dump.json
+device_summary.txt
+log.txt
