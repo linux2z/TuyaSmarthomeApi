@@ -1,0 +1,10 @@
+[dotenv@17.2.3] injecting env (3) from .env.local -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+--- START TEST ---
+Access ID Len: 20
+Access Secret Len: 32
+Endpoint: https://openapi.tuyaeu.com
+Fetching devices...
+SUCCESS: false
+CODE: 1109
+MSG: device_ids param is illegal, please check it
+RESULT IS NULL
