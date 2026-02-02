@@ -46,7 +46,13 @@ npm install
 ```
 
 ### 2. Configuration
-Create a `.env.local` file in the root and fill in your Tuya Developer credentials:
+Copy the template file to create your local environment file:
+
+```bash
+cp .env.example .env.local
+```
+
+Then, open `.env.local` and fill in your Tuya Developer credentials:
 
 ```env
 TUYA_ACCESS_ID=your_id
